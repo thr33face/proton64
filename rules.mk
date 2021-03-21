@@ -1,0 +1,21 @@
+# 'Proton-64' - C64/VIC20 keyboard to USB conversion
+# built in 2021 - thr33face
+
+# MCU name
+MCU = STM32F303
+
+# Build Options
+BOOTMAGIC_ENABLE	= no
+MOUSEKEY_ENABLE		= no
+EXTRAKEY_ENABLE		= yes
+CONSOLE_ENABLE		= no
+COMMAND_ENABLE		= no
+SLEEP_LED_ENABLE	= no
+NKRO_ENABLE			= no
+BACKLIGHT_ENABLE	= no
+AUDIO_ENABLE		= no
+USE_I2C				= no
+RGBLIGHT_ENABLE		= no
+ENCODER_ENABLE		= no
+OLED_DRIVER_ENABLE	= no
+UNICODE_ENABLE		= no
