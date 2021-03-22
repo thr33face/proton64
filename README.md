@@ -6,8 +6,8 @@ Bottom plate has one hole to expose the Proton C's button for easy firmware upda
 
 The case is held together by 9 M2x5 screws.
 
-![beauty shot](https://github.com/thr33face/proton64/blob/main/docs/210314-162027-3.jpg)
-![beauty shot](https://github.com/thr33face/proton64/blob/main/docs/210228-162007.jpg)
+![keyboard and monitor](https://github.com/thr33face/proton64/blob/main/docs/210314-160809.jpg)
+![top shot](https://github.com/thr33face/proton64/blob/main/docs/210228-162007.jpg)
 
 Depending on your printer and build size limitations you will have to cut the model into several pieces and join them somehow.
 For my print I split the design by 3 horizontally and joined the pieces using CA-glue as well as 'welding' single layer PLA sheets over the joints. 
@@ -76,5 +76,5 @@ _keyboard detail_
 ![connector](https://github.com/thr33face/proton64/blob/main/docs/210228-161843-2.jpg)
 _connector plate_
 
-![keyboard and monitor](https://github.com/thr33face/proton64/blob/main/docs/210314-160809.jpg)
+![beauty shot](https://github.com/thr33face/proton64/blob/main/docs/210314-162027-3.jpg)
 _on desk_
